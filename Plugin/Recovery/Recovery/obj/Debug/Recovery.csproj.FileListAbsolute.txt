@@ -1,0 +1,8 @@
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Debug\Plugins\Recovery.dll
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Debug\Plugins\Recovery.pdb
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.csproj.AssemblyReference.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.csproj.CoreCompileInputs.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.csproj.Fody.CopyLocal.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.csproj.CopyComplete
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.dll
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Recovery\Recovery\obj\Debug\Recovery.pdb

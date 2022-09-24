@@ -1,0 +1,4 @@
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.csproj.AssemblyReference.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.csproj.CoreCompileInputs.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.dll
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\SendMemory\SendMemory\obj\Debug\SendMemory.pdb

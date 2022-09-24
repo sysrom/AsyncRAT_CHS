@@ -1,0 +1,6 @@
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.AssemblyReference.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.Properties.Resources.resources
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.GenerateResource.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.csproj.CoreCompileInputs.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.dll
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\Miscellaneous\Miscellaneous\obj\Debug\Miscellaneous.pdb

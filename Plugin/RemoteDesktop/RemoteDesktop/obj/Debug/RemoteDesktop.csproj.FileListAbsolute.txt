@@ -1,0 +1,4 @@
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.AssemblyReference.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CoreCompileInputs.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.dll
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Plugin\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb

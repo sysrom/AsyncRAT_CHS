@@ -1,0 +1,5 @@
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Binaries\Release\Stub\Stub.exe.config
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Client\obj\Release\Client.csproj.AssemblyReference.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+E:\HACK\AsyncRAT-C-Sharp-master\AsyncRAT-C#\Client\obj\Release\Stub.exe
